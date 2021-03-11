@@ -1,5 +1,6 @@
 "Coffee"
 By: Alaa Jaafar
+New line of text
 Once upon a time
 Coffee was created
 Then I was born and introduced
